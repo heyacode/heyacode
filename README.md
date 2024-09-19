@@ -10,5 +10,5 @@
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyacode&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="YusufLisawi's most used langs"/></div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=heyacode&icon=5&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=heyacode&icon=5&color=1)
 
