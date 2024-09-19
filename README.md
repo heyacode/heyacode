@@ -1,5 +1,5 @@
 # 📄 About Me:
-     Hi, this is Yasmine!<br>
+Hi, this is Yasmine!<br>
  👩🏻‍💻 Full-Stack Web Developer sharing my journey of growth and developmen<br>
  👩🏻‍🎓 Graduated in Mathematics and Computer Science from Abdelmalik Essaadi University of Science in Tetouan<br>
  💻 Studied Web Developement at The Specialized Institute in Offshoring Professions in Tetouan
